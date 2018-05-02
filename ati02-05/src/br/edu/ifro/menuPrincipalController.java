@@ -63,6 +63,6 @@ public class menuPrincipalController implements Initializable {
 
     @FXML
     private void fecharProgeto(ActionEvent event) {
-    }
+}
     
 }
